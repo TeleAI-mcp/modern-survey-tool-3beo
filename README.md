@@ -1,2 +1,3 @@
-# modern-survey-tool-3beo
-Automated issue comment bot repository
+# Modern Survey Tool 3Beo
+
+Automated issue comment bot repository.
